@@ -140,7 +140,7 @@ class UserGroup extends Component {
     for (let group in groupArr) {
       template.push(
         <div key={i}>
-          <h2>{group != 'undefined' ? group : 'Без группы'}</h2>
+          <h2>{group !== 'undefined' ? group : 'Без группы'}</h2>
           <UsersTable data={groupArr[group]}/>
         </div>
       )
