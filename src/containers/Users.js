@@ -25,7 +25,7 @@ export default class Users extends Component {
     axios.get('/data.json')
       .then((response) => {
         console.log(response);
-        this.setState({users: response.data.users});
+        this.setState({users: response.data});
       })
       .catch((error) => {
         console.log(error);

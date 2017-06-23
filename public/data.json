@@ -1,37 +1,1707 @@
-{
-  "users": [
-    {
-      "name": "Василий",
-      "surname": "Петров",
-      "group": "Бухгалтерия"
-    },
-    {
-      "name": "Касилий",
-      "surname": "Уетров",
-      "group": "Бухгалтерия"
-    },
-    {
-      "name": "Алексей",
-      "surname": "Иваноа",
-      "group": "ИТ отдел"
-    },
-    {
-      "name": "Федор",
-      "surname": "Вваноа",
-      "group": "ИТ отдел"
-    },
-    {
-      "name": "Угантик",
-      "surname": "Рваноа",
-      "group": "ИТ отдел"
-    },
-    {
-      "name": "Иван",
-      "surname": "Андреев"
-    },
-    {
-      "name": "Лван",
-      "surname": "Шндреев"
-    }
-  ]
-}
+[
+  {
+    "name": "Meghan",
+    "surname": "Pugh",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Pace",
+    "surname": "Robertson",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Marisol",
+    "surname": "Horton",
+    "group": "Руководство"
+  },
+  {
+    "name": "Amy",
+    "surname": "Wolf",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Fuentes",
+    "surname": "Pacheco",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Michael",
+    "surname": "Landry",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Wynn",
+    "surname": "Nielsen",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Fischer",
+    "surname": "Stanley",
+    "group": "Руководство"
+  },
+  {
+    "name": "Dona",
+    "surname": "Kelly",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Parker",
+    "surname": "Santana",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Ruthie",
+    "surname": "Leon",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Mona",
+    "surname": "Soto",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Millicent",
+    "surname": "Haney",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Middleton",
+    "surname": "Vance",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Burt",
+    "surname": "Stewart",
+    "group": "Руководство"
+  },
+  {
+    "name": "Stout",
+    "surname": "Wynn",
+    "group": "Руководство"
+  },
+  {
+    "name": "Sheena",
+    "surname": "Miranda",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Frost",
+    "surname": "Stuart",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Irma",
+    "surname": "Spears",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Thelma",
+    "surname": "Carrillo",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "June",
+    "surname": "Blair",
+    "group": "Руководство"
+  },
+  {
+    "name": "Vicky",
+    "surname": "Bowen",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Moon",
+    "surname": "Wilkinson",
+    "group": "Руководство"
+  },
+  {
+    "name": "Agnes",
+    "surname": "Moreno",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Mcmillan",
+    "surname": "Griffith",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Armstrong",
+    "surname": "Little",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Latasha",
+    "surname": "Scott",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Mckay",
+    "surname": "Cross",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Marilyn",
+    "surname": "Munoz",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Ophelia",
+    "surname": "Duffy",
+    "group": "Руководство"
+  },
+  {
+    "name": "Garrett",
+    "surname": "Bradley",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Polly",
+    "surname": "Ward",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Tricia",
+    "surname": "Orr",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Becker",
+    "surname": "Mclean",
+    "group": "Руководство"
+  },
+  {
+    "name": "Sabrina",
+    "surname": "Shaw",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Casey",
+    "surname": "Moore",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Darla",
+    "surname": "Bridges",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Phyllis",
+    "surname": "Garza",
+    "group": "Руководство"
+  },
+  {
+    "name": "Ferguson",
+    "surname": "Larson",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Landry",
+    "surname": "Davidson",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Madeleine",
+    "surname": "Griffin",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Stephanie",
+    "surname": "Armstrong",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Miles",
+    "surname": "Castro",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Ester",
+    "surname": "Hancock",
+    "group": "Руководство"
+  },
+  {
+    "name": "Reyna",
+    "surname": "Head",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Miranda",
+    "surname": "Hyde",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Lauri",
+    "surname": "Lee",
+    "group": "Руководство"
+  },
+  {
+    "name": "Leona",
+    "surname": "Stevenson",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Wheeler",
+    "surname": "Greene",
+    "group": "Руководство"
+  },
+  {
+    "name": "Chaney",
+    "surname": "Figueroa",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Peterson",
+    "surname": "Wheeler",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Hardy",
+    "surname": "Franklin",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Ethel",
+    "surname": "Kline",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Esther",
+    "surname": "Rose",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Jaime",
+    "surname": "Pierce",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Elba",
+    "surname": "Craft",
+    "group": "Руководство"
+  },
+  {
+    "name": "Kelsey",
+    "surname": "Richardson",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Coleen",
+    "surname": "Parsons",
+    "group": "Руководство"
+  },
+  {
+    "name": "Cantrell",
+    "surname": "Ashley",
+    "group": "Руководство"
+  },
+  {
+    "name": "Eileen",
+    "surname": "Norris",
+    "group": "Руководство"
+  },
+  {
+    "name": "Pam",
+    "surname": "Murphy",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Cash",
+    "surname": "Conley",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Dena",
+    "surname": "Donaldson",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Holden",
+    "surname": "Valdez",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Fulton",
+    "surname": "Butler",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Lessie",
+    "surname": "Wooten",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Rivers",
+    "surname": "Mcknight",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Marisa",
+    "surname": "Kirk",
+    "group": "Руководство"
+  },
+  {
+    "name": "Wallace",
+    "surname": "Jordan",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Janine",
+    "surname": "Jennings",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Monique",
+    "surname": "Lane",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Davis",
+    "surname": "Ross",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Oneal",
+    "surname": "Waters",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Blackwell",
+    "surname": "Vaughn",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Ericka",
+    "surname": "Noble",
+    "group": "Руководство"
+  },
+  {
+    "name": "Velma",
+    "surname": "Hopkins",
+    "group": "Руководство"
+  },
+  {
+    "name": "Watkins",
+    "surname": "Avery",
+    "group": "Руководство"
+  },
+  {
+    "name": "Dixie",
+    "surname": "Carroll",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Stefanie",
+    "surname": "Garrett",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Mills",
+    "surname": "Becker",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Jennings",
+    "surname": "Mcmillan",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Katelyn",
+    "surname": "Franks",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Goff",
+    "surname": "Hawkins",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Berry",
+    "surname": "Gibbs",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Roman",
+    "surname": "Knapp",
+    "group": "Руководство"
+  },
+  {
+    "name": "Cardenas",
+    "surname": "Delaney",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Mindy",
+    "surname": "Cruz",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Victoria",
+    "surname": "Barr",
+    "group": "Руководство"
+  },
+  {
+    "name": "Levy",
+    "surname": "Ball",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Conway",
+    "surname": "Collins",
+    "group": "Руководство"
+  },
+  {
+    "name": "Natalia",
+    "surname": "Alston",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Antonia",
+    "surname": "Schmidt",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Petra",
+    "surname": "Dotson",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Rasmussen",
+    "surname": "Levy",
+    "group": "Руководство"
+  },
+  {
+    "name": "Virgie",
+    "surname": "Maynard",
+    "group": "Руководство"
+  },
+  {
+    "name": "Anastasia",
+    "surname": "Burt",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Ruby",
+    "surname": "Richmond",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Sparks",
+    "surname": "Cobb",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Georgette",
+    "surname": "Acosta",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Inez",
+    "surname": "Hopper",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Calhoun",
+    "surname": "Holland",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Swanson",
+    "surname": "Mendez",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Herring",
+    "surname": "Bass",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Francis",
+    "surname": "Huber",
+    "group": "Руководство"
+  },
+  {
+    "name": "Arnold",
+    "surname": "Palmer",
+    "group": "Руководство"
+  },
+  {
+    "name": "Andrews",
+    "surname": "Nolan",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Mcconnell",
+    "surname": "Roy",
+    "group": "Руководство"
+  },
+  {
+    "name": "Chelsea",
+    "surname": "Melton",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Jeanie",
+    "surname": "Wright",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Thompson",
+    "surname": "David",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Trudy",
+    "surname": "Silva",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Deidre",
+    "surname": "Flowers",
+    "group": "Руководство"
+  },
+  {
+    "name": "Leigh",
+    "surname": "Mendoza",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Nita",
+    "surname": "Wilkins",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Sanchez",
+    "surname": "Mcdaniel",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Lara",
+    "surname": "Hartman",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Lindsay",
+    "surname": "Gates",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Austin",
+    "surname": "Pruitt",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Herminia",
+    "surname": "Hurst",
+    "group": "Руководство"
+  },
+  {
+    "name": "Rivas",
+    "surname": "Garner",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Horn",
+    "surname": "Massey",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Poole",
+    "surname": "Ramos",
+    "group": "Руководство"
+  },
+  {
+    "name": "Sexton",
+    "surname": "Russell",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Nikki",
+    "surname": "Best",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Lenore",
+    "surname": "Pate",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Alejandra",
+    "surname": "Buckner",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Haley",
+    "surname": "Collier",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Mai",
+    "surname": "Whitaker",
+    "group": "Руководство"
+  },
+  {
+    "name": "Gretchen",
+    "surname": "Keller",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Rhoda",
+    "surname": "Rosales",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Adele",
+    "surname": "Mccall",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Susan",
+    "surname": "Forbes",
+    "group": "Руководство"
+  },
+  {
+    "name": "Karin",
+    "surname": "Flynn",
+    "group": "Руководство"
+  },
+  {
+    "name": "Susie",
+    "surname": "Berg",
+    "group": "Руководство"
+  },
+  {
+    "name": "Callie",
+    "surname": "Joseph",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Olga",
+    "surname": "Thornton",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Krista",
+    "surname": "Dunn",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Maria",
+    "surname": "Walter",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Clemons",
+    "surname": "Cantu",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Lois",
+    "surname": "Sparks",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Donna",
+    "surname": "Boyle",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Savannah",
+    "surname": "Tillman",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Rosa",
+    "surname": "Townsend",
+    "group": "Руководство"
+  },
+  {
+    "name": "Kelley",
+    "surname": "Giles",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Lauren",
+    "surname": "Key",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Richmond",
+    "surname": "Green",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Weber",
+    "surname": "Petty",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Beck",
+    "surname": "Hendricks",
+    "group": "Руководство"
+  },
+  {
+    "name": "Chen",
+    "surname": "Merrill",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Jenny",
+    "surname": "Haynes",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Clements",
+    "surname": "Turner",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Cecile",
+    "surname": "Barnett",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Clarissa",
+    "surname": "Erickson",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Mueller",
+    "surname": "Mullen",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Melody",
+    "surname": "Rush",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Gwen",
+    "surname": "Chavez",
+    "group": "Руководство"
+  },
+  {
+    "name": "Barnett",
+    "surname": "Williamson",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Simpson",
+    "surname": "Stark",
+    "group": "Руководство"
+  },
+  {
+    "name": "Winnie",
+    "surname": "Sampson",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Sargent",
+    "surname": "May",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Gertrude",
+    "surname": "Fox",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Letha",
+    "surname": "Mccarthy",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Soto",
+    "surname": "Heath",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Mcbride",
+    "surname": "Mathis",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Audrey",
+    "surname": "Molina",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Jennifer",
+    "surname": "Guthrie",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Tina",
+    "surname": "Small",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Sara",
+    "surname": "Kinney",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Willis",
+    "surname": "Livingston",
+    "group": "Руководство"
+  },
+  {
+    "name": "Shelley",
+    "surname": "Ayala",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Ballard",
+    "surname": "Cleveland",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Stevens",
+    "surname": "Gamble",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Mejia",
+    "surname": "Hays",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Head",
+    "surname": "Cummings",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Marietta",
+    "surname": "Hensley",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Teresa",
+    "surname": "Dickerson",
+    "group": "Руководство"
+  },
+  {
+    "name": "Yolanda",
+    "surname": "Barker",
+    "group": "Руководство"
+  },
+  {
+    "name": "Dalton",
+    "surname": "Kim",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Hatfield",
+    "surname": "Morgan",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Lane",
+    "surname": "Howard",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Delaney",
+    "surname": "Campos",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Deanne",
+    "surname": "Bush",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Rosanna",
+    "surname": "Knowles",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Charlene",
+    "surname": "Gardner",
+    "group": "Руководство"
+  },
+  {
+    "name": "Schultz",
+    "surname": "Preston",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Travis",
+    "surname": "Austin",
+    "group": "Руководство"
+  },
+  {
+    "name": "Davidson",
+    "surname": "Delgado",
+    "group": "Руководство"
+  },
+  {
+    "name": "Carissa",
+    "surname": "Battle",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Hale",
+    "surname": "Carver",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Atkinson",
+    "surname": "Coffey",
+    "group": "Руководство"
+  },
+  {
+    "name": "Bean",
+    "surname": "Mills",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Terra",
+    "surname": "Freeman",
+    "group": "Руководство"
+  },
+  {
+    "name": "Lee",
+    "surname": "Calhoun",
+    "group": "Руководство"
+  },
+  {
+    "name": "Velazquez",
+    "surname": "Hughes",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Acosta",
+    "surname": "Carey",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Jacquelyn",
+    "surname": "Salinas",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Lara",
+    "surname": "Hicks",
+    "group": "Руководство"
+  },
+  {
+    "name": "Knight",
+    "surname": "Gordon",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Gentry",
+    "surname": "Mcclure",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Sosa",
+    "surname": "Burks",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Pacheco",
+    "surname": "Benson",
+    "group": "Руководство"
+  },
+  {
+    "name": "Stanton",
+    "surname": "Browning",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Corine",
+    "surname": "Peterson",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Maggie",
+    "surname": "Sellers",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Turner",
+    "surname": "Ryan",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Todd",
+    "surname": "Oneal",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Deloris",
+    "surname": "Wilder",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Sue",
+    "surname": "Ayers",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Janelle",
+    "surname": "Bond",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Shepard",
+    "surname": "Mccormick",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Griffin",
+    "surname": "Hanson",
+    "group": "Руководство"
+  },
+  {
+    "name": "Lorraine",
+    "surname": "Leblanc",
+    "group": "Руководство"
+  },
+  {
+    "name": "Kristie",
+    "surname": "Rowe",
+    "group": "Руководство"
+  },
+  {
+    "name": "Lilia",
+    "surname": "Adkins",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Vasquez",
+    "surname": "Russo",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Riggs",
+    "surname": "Wyatt",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Banks",
+    "surname": "Jenkins",
+    "group": "Руководство"
+  },
+  {
+    "name": "Mullins",
+    "surname": "Yates",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Ramsey",
+    "surname": "Gregory",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Barbra",
+    "surname": "Brennan",
+    "group": "Руководство"
+  },
+  {
+    "name": "Dee",
+    "surname": "Raymond",
+    "group": "Руководство"
+  },
+  {
+    "name": "Margie",
+    "surname": "Foster",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Maritza",
+    "surname": "Good",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Candy",
+    "surname": "Vega",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Moore",
+    "surname": "Hodges",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Britt",
+    "surname": "Haley",
+    "group": "Руководство"
+  },
+  {
+    "name": "Alfreda",
+    "surname": "Hood",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Jacobson",
+    "surname": "Hill",
+    "group": "Руководство"
+  },
+  {
+    "name": "Magdalena",
+    "surname": "Colon",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Francesca",
+    "surname": "Randall",
+    "group": "Руководство"
+  },
+  {
+    "name": "Angelica",
+    "surname": "Holmes",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Jimenez",
+    "surname": "Clarke",
+    "group": "Руководство"
+  },
+  {
+    "name": "Durham",
+    "surname": "Lowery",
+    "group": "Руководство"
+  },
+  {
+    "name": "Bessie",
+    "surname": "Lott",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Aimee",
+    "surname": "Baldwin",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Doyle",
+    "surname": "Larsen",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Stewart",
+    "surname": "Lloyd",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Boyer",
+    "surname": "Boone",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Francis",
+    "surname": "Simmons",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Puckett",
+    "surname": "Gentry",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Mcfarland",
+    "surname": "Guzman",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Rae",
+    "surname": "Brown",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Aguirre",
+    "surname": "Jacobs",
+    "group": "Руководство"
+  },
+  {
+    "name": "Jennie",
+    "surname": "Frazier",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Carolyn",
+    "surname": "Knox",
+    "group": "Руководство"
+  },
+  {
+    "name": "Ellis",
+    "surname": "Mcintyre",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Mccullough",
+    "surname": "Wall",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Joy",
+    "surname": "Lawrence",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Finch",
+    "surname": "Perkins",
+    "group": "Руководство"
+  },
+  {
+    "name": "Tamra",
+    "surname": "Nguyen",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "James",
+    "surname": "Fry",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Mcclain",
+    "surname": "Gill",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Cabrera",
+    "surname": "Church",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Pearlie",
+    "surname": "Dominguez",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Latisha",
+    "surname": "Reid",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Madeline",
+    "surname": "Tate",
+    "group": "Руководство"
+  },
+  {
+    "name": "Aurora",
+    "surname": "Williams",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Floyd",
+    "surname": "Britt",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Hinton",
+    "surname": "Maddox",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Dixon",
+    "surname": "Coleman",
+    "group": "Руководство"
+  },
+  {
+    "name": "Jerry",
+    "surname": "Mckee",
+    "group": "Руководство"
+  },
+  {
+    "name": "Johnnie",
+    "surname": "Maxwell",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Knapp",
+    "surname": "Peck",
+    "group": "Руководство"
+  },
+  {
+    "name": "Hayes",
+    "surname": "Walton",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Beatrice",
+    "surname": "Newman",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Baker",
+    "surname": "Daugherty",
+    "group": "Руководство"
+  },
+  {
+    "name": "Nanette",
+    "surname": "Suarez",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Hodges",
+    "surname": "Oneill",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Michael",
+    "surname": "Rivas",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Clara",
+    "surname": "Benjamin",
+    "group": "Руководство"
+  },
+  {
+    "name": "William",
+    "surname": "Morin",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Weiss",
+    "surname": "Riley",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Andrea",
+    "surname": "Lewis",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Gabrielle",
+    "surname": "Robinson",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Nettie",
+    "surname": "Barton",
+    "group": "Руководство"
+  },
+  {
+    "name": "Lawrence",
+    "surname": "Hoffman",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Gillespie",
+    "surname": "Solis",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Reva",
+    "surname": "Garcia",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Alyssa",
+    "surname": "Hunter",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Mcdaniel",
+    "surname": "Rice",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Baxter",
+    "surname": "Hudson",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Lancaster",
+    "surname": "Wise",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Watts",
+    "surname": "Torres",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Marie",
+    "surname": "Durham",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Mcgowan",
+    "surname": "Vaughan",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Geneva",
+    "surname": "Rollins",
+    "group": "Руководство"
+  },
+  {
+    "name": "Craft",
+    "surname": "Bowers",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Gilbert",
+    "surname": "Melendez",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Fran",
+    "surname": "Morrison",
+    "group": "Руководство"
+  },
+  {
+    "name": "Liliana",
+    "surname": "Stanton",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Rojas",
+    "surname": "Marsh",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Nona",
+    "surname": "Hooper",
+    "group": "Руководство"
+  },
+  {
+    "name": "Natalie",
+    "surname": "House",
+    "group": "Руководство"
+  },
+  {
+    "name": "Christina",
+    "surname": "Potts",
+    "group": "Руководство"
+  },
+  {
+    "name": "Camille",
+    "surname": "Salas",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Lana",
+    "surname": "Fitzgerald",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Jacklyn",
+    "surname": "Watkins",
+    "group": "Руководство"
+  },
+  {
+    "name": "Dale",
+    "surname": "Kane",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Louise",
+    "surname": "Lynch",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Willie",
+    "surname": "Valencia",
+    "group": "Руководство"
+  },
+  {
+    "name": "Stafford",
+    "surname": "Malone",
+    "group": "Руководство"
+  },
+  {
+    "name": "Diaz",
+    "surname": "Hammond",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Tameka",
+    "surname": "Pratt",
+    "group": "Руководство"
+  },
+  {
+    "name": "Bailey",
+    "surname": "Powers",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Daugherty",
+    "surname": "Patel",
+    "group": "Руководство"
+  },
+  {
+    "name": "Sherry",
+    "surname": "Compton",
+    "group": "Руководство"
+  },
+  {
+    "name": "Hattie",
+    "surname": "Cohen",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Reyes",
+    "surname": "Harrell",
+    "group": "Руководство"
+  },
+  {
+    "name": "Lyons",
+    "surname": "Downs",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Roach",
+    "surname": "Boyd",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Tonya",
+    "surname": "Bright",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Lena",
+    "surname": "Bailey",
+    "group": "Руководство"
+  },
+  {
+    "name": "Amanda",
+    "surname": "Oneil",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Aguilar",
+    "surname": "Dorsey",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Farmer",
+    "surname": "Macias",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Marion",
+    "surname": "Berger",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Bernice",
+    "surname": "Travis",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Phillips",
+    "surname": "Chase",
+    "group": "Руководство"
+  },
+  {
+    "name": "Shauna",
+    "surname": "Montoya",
+    "group": "Руководство"
+  },
+  {
+    "name": "Christensen",
+    "surname": "Eaton",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Norman",
+    "surname": "Christian",
+    "group": "Руководство"
+  },
+  {
+    "name": "Tran",
+    "surname": "Spence",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Wooten",
+    "surname": "Robbins",
+    "group": "Руководство"
+  },
+  {
+    "name": "Laurie",
+    "surname": "Faulkner",
+    "group": "Руководство"
+  },
+  {
+    "name": "Velasquez",
+    "surname": "Bowman",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Trisha",
+    "surname": "Ellis",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Holmes",
+    "surname": "Maldonado",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Estrada",
+    "surname": "Pollard",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Dejesus",
+    "surname": "Ramirez",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Francine",
+    "surname": "Dale",
+    "group": "Руководство"
+  },
+  {
+    "name": "Alice",
+    "surname": "Mercado",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Cherry",
+    "surname": "Banks",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Maribel",
+    "surname": "Lang",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Winifred",
+    "surname": "Moran",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Guzman",
+    "surname": "Reynolds",
+    "group": "Руководство"
+  },
+  {
+    "name": "Aida",
+    "surname": "Calderon",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Olivia",
+    "surname": "Frye",
+    "group": "Отдел кадров"
+  },
+  {
+    "name": "Harding",
+    "surname": "Caldwell",
+    "group": "ИТ отдел"
+  },
+  {
+    "name": "Tami",
+    "surname": "Mcneil",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Randall",
+    "surname": "King",
+    "group": "Бухгалтерия"
+  },
+  {
+    "name": "Chang",
+    "surname": "Lawson",
+    "group": "Отдел кадров"
+  }
+]
