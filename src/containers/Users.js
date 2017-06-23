@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 import { UsersTable } from '../components/UsersTable';
 import { UserGroup } from '../components/UserGroup';
+import { ModalForm } from '../components/ModalForm';
 
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import { Tabs, Tab } from 'material-ui/Tabs';
@@ -24,8 +25,7 @@ export default class Users extends Component {
   componentDidMount() {
     axios.get('/data.json')
       .then((response) => {
-        console.log(response);
-        this.setState({users: response.data});
+        this.setState({ users: response.data });
       })
       .catch((error) => {
         console.log(error);
@@ -33,10 +33,12 @@ export default class Users extends Component {
   }
 
   render() {
+    
     return (
-      <div className="container">
-        <h2> Список пользователей </h2>
-        <MuiThemeProvider>
+      <MuiThemeProvider>
+        <div className="container">
+          {/*<ModalForm />*/}
+          <h2> Список пользователей </h2>
           <Tabs>
             <Tab label="Все пользователи">
               <UsersTable data={this.state.users} />
@@ -45,8 +47,8 @@ export default class Users extends Component {
               <UserGroup data={this.state.users} />
             </Tab>
           </Tabs>
-        </MuiThemeProvider>
-      </div>
+        </div>
+      </MuiThemeProvider>
     )
   }
 }
