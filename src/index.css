@@ -1,7 +1,11 @@
-body {
+* {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+}
+
+h2 {
+  margin: 15px 0;
 }
 
 .container {
@@ -10,11 +14,35 @@ body {
   padding: 0 15px;
 }
 
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-user input {
+  height: 35px;
+  width: 100%;
+  padding: 10px 15px;
+  border: none;
+  border-bottom: 2px solid #00bcd4;
+  outline: 0;
+  font-size: 14px;
+}
+
+.sort-ctrl button{
+  width: 100%;
+  display: block !important;
+}
+
 @media (min-width: 768px) {
   .container {
     width: 740px;
   }
+  .sort-ctrl button {
+    width: auto;
+    display: inline-block !important;
+  }
 }
+
 @media (min-width: 1200px) {
   .container {
     width: 1140px;

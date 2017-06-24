@@ -32,15 +32,21 @@ export default class Users extends Component {
       });
   }
 
+  addUser(user) {
+    let users = this.state.users;
+    users.push(user);
+    this.setState({users: users});
+  }
+
   render() {
     
     return (
       <MuiThemeProvider>
         <div className="container">
-          {/*<ModalForm />*/}
+          <ModalForm onUpdate={(user) => {this.addUser(user)} }/>
           <h2> Список пользователей </h2>
           <Tabs>
-            <Tab label="Все пользователи">
+            <Tab label="Все">
               <UsersTable data={this.state.users} />
             </Tab>
             <Tab label="По группам">
